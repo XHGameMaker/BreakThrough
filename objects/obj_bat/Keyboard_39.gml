@@ -7,6 +7,6 @@ if(x + sprite_xoffset + msp > room_width){
 
 x += msp;
 
-if(!global.xstart){
+if(!obj_ball.xstart){
 	obj_ball.x = x;
 }

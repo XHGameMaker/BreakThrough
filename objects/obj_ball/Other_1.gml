@@ -10,5 +10,13 @@ if(bbox_top < 0) {
 }
 
 if(bbox_bottom > room_height){
-	// lives - 1
+	global.p_lives -= 1;
+	instance_destroy();
+	if(global.p_lives <= 0){
+		global.p_hight_score = max(global.p_hight_score, global.p_score);
+		global.p_score = 0;
+		room_restart();
+	} else {
+		instance_create_layer(obj_bat.x, ystart, "Instances", obj_ball);
+	}
 }

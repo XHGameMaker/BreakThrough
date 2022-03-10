@@ -7,6 +7,7 @@
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":2,},
     {"id":{"name":"obj_bat","path":"objects/obj_bat/obj_bat.yy",},"order":2,},
     {"id":{"name":"obj_brick","path":"objects/obj_brick/obj_brick.yy",},"order":0,},
+    {"id":{"name":"obj_gui","path":"objects/obj_gui/obj_gui.yy",},"order":4,},
     {"id":{"name":"房间1","path":"rooms/房间1/房间1.yy",},"order":0,},
   ],
   "Options": [

@@ -4,8 +4,6 @@
 
 randomise();
 
-global.xstart = false;
-
 var bwidth = 32;
 var bheight = 16;
 
