@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-if(x + sprite_width + msp > room_width){
+if(x + sprite_xoffset + msp > room_width){
 	exit
 }
 
