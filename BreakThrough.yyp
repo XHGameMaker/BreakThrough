@@ -1,7 +1,9 @@
 {
   "resources": [
     {"id":{"name":"obj_ball","path":"objects/obj_ball/obj_ball.yy",},"order":1,},
+    {"id":{"name":"obj_btn_resume","path":"objects/obj_btn_resume/obj_btn_resume.yy",},"order":0,},
     {"id":{"name":"spr_brick","path":"sprites/spr_brick/spr_brick.yy",},"order":0,},
+    {"id":{"name":"spr_btn","path":"sprites/spr_btn/spr_btn.yy",},"order":3,},
     {"id":{"name":"spr_bat","path":"sprites/spr_bat/spr_bat.yy",},"order":1,},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},"order":3,},
     {"id":{"name":"spr_ball","path":"sprites/spr_ball/spr_ball.yy",},"order":2,},
@@ -39,6 +41,7 @@
     {"folderPath":"folders/动画曲线.yy","order":12,"resourceVersion":"1.0","name":"动画曲线","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/便签.yy","order":13,"resourceVersion":"1.0","name":"便签","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/扩展.yy","order":14,"resourceVersion":"1.0","name":"扩展","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/物体/menu.yy","order":5,"resourceVersion":"1.0","name":"menu","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

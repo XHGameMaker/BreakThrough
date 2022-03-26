@@ -7,6 +7,8 @@ randomise();
 var bwidth = 32;
 var bheight = 16;
 
+pause = false;
+
 var col_num = room_width / bwidth;
 
 for(var i=2; i<col_num-2; i++){
